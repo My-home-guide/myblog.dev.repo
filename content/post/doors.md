@@ -1,10 +1,10 @@
 ---
-title: "Yhis is poste about home makers"
+title: "Դռներ"
 date: 2020-09-15T11:30:03+00:00
 weight: 1
 aliases: ["/first"]
 tags: ["first"]
-author: "Mouse"
+author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -16,6 +16,6 @@ cover:
     alt: "<alt text>"
     caption: "<text>"
     relative: false
-comments: true
+comments: false
 ---
-This is my post
+
