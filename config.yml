@@ -1,5 +1,5 @@
 baseURL: "https://my-home-guide.github.io/"
-title: ExampleSite
+title: Տնակ
 paginate: 5
 theme: hugo-PaperMod
 
@@ -38,7 +38,7 @@ params:
         safari_pinned_tab: "/safari-pinned-tab.svg"
 
     label:
-        text: "Տունիկ"
+        text: "Տնակ"
         icon: /apple-touch-icon.png
         iconHeight: 35
 
