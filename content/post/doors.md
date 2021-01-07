@@ -22,3 +22,9 @@ comments: false
 # SHAHINYANs
 https://www.shahinyans.com/
 https://www.facebook.com/shahinyans
+
+# AMULA
+
+https://armkahuyq.am/
+https://www.facebook.com/amuladoors/
+https://www.instagram.com/amula.kahuyq/
