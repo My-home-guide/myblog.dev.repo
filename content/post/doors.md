@@ -3,7 +3,7 @@ title: "Դռներ"
 date: 2020-09-15T11:30:03+00:00
 weight: 1
 aliases: ["/first"]
-tags: ["first"]
+tags: ["դուռ","դռներ","միջսենյակային","մուտքի","թաքնված","ներկառուցված"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -19,3 +19,6 @@ cover:
 comments: false
 ---
 
+# SHAHINYANs
+https://www.shahinyans.com/
+https://www.facebook.com/shahinyans
